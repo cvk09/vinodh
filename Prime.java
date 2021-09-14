@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Prime {
 	  public static void main(String args[])
 	    {
-	        int num, i, count=0;
+	        int num, i, count=2;
 	        Scanner scan = new Scanner(System.in);
 	      
 	        System.out.print("Enter a Number : ");
