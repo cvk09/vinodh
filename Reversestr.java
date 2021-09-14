@@ -7,7 +7,7 @@ public class Reversestr {
 		
 		    public static void main(String[] args)
 		    {
-		        String input = "chejarla vinodhkumar";
+		        String input = " vinodhkumar";
 		 
 		        StringBuilder input1 = new StringBuilder();
 		 
