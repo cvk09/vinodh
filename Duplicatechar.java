@@ -2,7 +2,7 @@ package vinodh;
 
 public class Duplicatechar {
     public static void main(String[] args) {  
-        String string1 = "chejarla vinodhkumar";  
+        String string1 = " vinodhkumar";  
         int count;  
           
         //Converts given string into character array  
