@@ -7,7 +7,7 @@ public class Prime {
 	        int num, i, count=0;
 	        Scanner scan = new Scanner(System.in);
 	      
-	        System.out.print("Enter a Number : ");
+	        System.out.print("Enter a Number  : ");
 	        num = scan.nextInt();
 	      
 	        for(i=2; i<num; i++)
@@ -24,7 +24,7 @@ public class Prime {
 	        }
 	        else
 	        {
-	            System.out.print("This is not a Prime Number");
+	            System.out.print("This is not a Prime Number okay ");
 	        }
 	    }
 	}
